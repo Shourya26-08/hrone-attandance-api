@@ -1,0 +1,21 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Keep supplied assignment/reference material and sample dumps local.
+PROBLEM_STATEMENT.docx
+DATA_MODEL.md
+openapi.yaml
+sample_data/
+sample_seed.py
+*.zip
+Dockerfile
+Dockerfile.*
